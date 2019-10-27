@@ -35,3 +35,4 @@ excludes:
   - server
   - build
   - index.js
+theme: jekyll-theme-cayman
