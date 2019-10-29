@@ -1,6 +1,6 @@
 # Private Box
-Alternative client for Box Critters.
-![screenshot](https://cdn.discordapp.com/attachments/632604108024578059/633333071114141696/unknown.png)
+Alternative client for Jelly World.
+![screenshot](https://imgur.com/XgpX3XG)
 # Table of Contents
 TODO: Optionally, include a table of contents in order to allow other people to quickly naviagte especially long or detailed READMEs.
 
